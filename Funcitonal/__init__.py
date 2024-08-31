@@ -1,1 +1,1 @@
-print('initilazing the project......')
+print('initializing the project......')
